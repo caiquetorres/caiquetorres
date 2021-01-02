@@ -10,8 +10,6 @@
     </em>
 </p>
 
-</br>
-
 <h2>Things I code with</h2>
 <p>
     <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white" />
