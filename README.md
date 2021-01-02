@@ -1,8 +1,6 @@
-<img align="right" width="295" height="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquetorres&langs_count=6&theme=dark" />
+<h1>Hi, I'm Caique Torres</h1>
 
-<h1 align="left">Hi, I'm Caique Torres</h1>
-
-<p align="left">
+<p>
     <em>Computer Enginner at <a href="https://facens.br">Facens</a>
         </br>
         Software Development Assistent at <a href="https://liga.facens.br/">
@@ -14,8 +12,8 @@
 
 </br>
 
-<h2 align="left">Things I code with</h2>
-<p align="left">
+<h2>Things I code with</h2>
+<p>
     <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/-CSharp-280068?style=flat-square&logo=c-sharp&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -39,8 +37,13 @@
 
 </br>
 
-<h3 align="left">Where to find me</h3>
-<p align="left">
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquetorres&langs_count=6&theme=dark&layout=compact" />
+
+</br>
+</br>
+
+<h3>Where to find me</h3>
+<p>
     <a href="https://www.linkedin.com/in/caique-torres-3532401b1" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
