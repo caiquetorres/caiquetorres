@@ -11,7 +11,6 @@
         </a>
     </em>
 </p>
-</br>
 
 ---
 
@@ -38,7 +37,7 @@
     <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-## </br>
+---
 
 <h3>Where to find me</h3>
 <p>
