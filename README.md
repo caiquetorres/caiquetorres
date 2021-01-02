@@ -1,7 +1,5 @@
 <h1>Hi, I'm Caique Torres</h1>
-<h2>Welcome to my Github</h2>
 
-</br>
 <p>
     <em>Computer Enginner at <a href="https://facens.br">Facens</a>
         </br>
