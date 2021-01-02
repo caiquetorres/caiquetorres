@@ -39,9 +39,6 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquetorres&langs_count=6&theme=dark&layout=compact" />
 
-</br>
-</br>
-
 <h3>Where to find me</h3>
 <p>
     <a href="https://www.linkedin.com/in/caique-torres-3532401b1" target="_blank">
