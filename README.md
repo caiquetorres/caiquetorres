@@ -3,7 +3,7 @@
 <p>
     <em>Computer Enginner at <a href="https://facens.br">Facens</a>
         </br>
-        Software Development at <a href="https://liga.facens.br/">
+        Software Developer at <a href="https://liga.facens.br/">
             LIGA
             <img src="./logo.png" width="40">
         </a>
