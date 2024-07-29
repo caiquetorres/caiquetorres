@@ -1,8 +1,8 @@
 <h1>Hi, I'm Caique Torres</h1>
 
 <p>
-    Software Engineer at <a href="https://www.micro1.ai">
-        micro1
+    Software Engineer at <a href="https://lyncas.net">
+        Lyncas
     </a>
 </p>
 
