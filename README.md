@@ -1,8 +1,8 @@
 <h1>Hi, I'm Caique Torres</h1>
 
 <p>
-    Software Engineer at <a href="https://lyncas.net">
-        Lyncas
+    Software Engineer at <a href="https://www.amparo.com.vc">
+        Amparo
     </a>
 </p>
 
