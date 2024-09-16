@@ -1,7 +1,7 @@
 <h1>Hi, I'm Caique Torres</h1>
 
 <p>
-    Software Engineer at <a href="https://www.amparo.com.vc">
+    Software Engineer at <a href="https://www.amparo.com.vc" target="_blank">
         Amparo
     </a>
 </p>
