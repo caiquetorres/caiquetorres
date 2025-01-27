@@ -1,10 +1,10 @@
 <h1>Hi, I'm Caique Torres</h1>
 
-<p>
-    Software Engineer at <a href="https://www.amparo.com.vc" target="_blank">
-        Amparo
-    </a>
-</p>
+Software Engineer at <a href="https://www.amparo.com.vc" target="_blank">
+    Amparo
+</a>
+
+Co-owner of Xtend Code, a mobile app development organization.
 
 <h2>Things I code with</h2>
 <p>
