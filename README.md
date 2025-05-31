@@ -1,7 +1,7 @@
 <h1>Hi, I'm <a href="https://caiquetorres.com" target="_blank">Caique Torres</a></h1>
 
-Software Engineer at <a href="https://www.amparo.com.vc" target="_blank">
-    Amparo
+Software Engineer at <a href="https://getstic.ky/" target="_blank">
+    Sticky
 </a>
 
 Co-owner of Xtend Code, a mobile app development organization.
