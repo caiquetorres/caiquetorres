@@ -4,7 +4,7 @@ Software Engineer
 
 Co-owner of Xtend Code, a mobile app development organization.
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquetorres&langs_count=6&theme=dark&layout=compact" />
+<!-- <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquetorres&langs_count=6&theme=dark&layout=compact" /> -->
 
 <h3>Where to find me</h3>
 <p>
